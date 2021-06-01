@@ -1,6 +1,6 @@
 # Sarathi
 
-[![Website status](https://img.shields.io/website-up-down-green-red/https/tedxmitsg.netlify.com.svg?label=Website%20status&style=for-the-badge)](https://quirky-brattain-b195ca.netlify.app/)
+[![Website status](https://img.shields.io/website-up-down-green-red/https/tedxmitsg.netlify.com.svg?label=Website%20status&style=for-the-badge)](https://wizardblog.herokuapp.com/)
 
 
 Sarathi is video chat application
